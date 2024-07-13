@@ -1,32 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mai Allam</h1>
-<h3 align="center">A passionate full stack developer from Egypt</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maiallam57&label=Profile%20views&color=0e75b6&style=flat" alt="maiallam57" /> </p>
+<h1 align="center">👩‍💻 Mai Allam <br>Software Engineer || Full Stack .NET Developer</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maiallam57" alt="maiallam57" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/mai_allam1257" target="blank"><img src="https://img.shields.io/twitter/follow/mai_allam1257?logo=twitter&style=for-the-badge" alt="mai_allam1257" /></a> </p>
-
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/maiallam57/](https://www.linkedin.com/in/maiallam57/)
-
-- 💬 Ask me about **Robotics**
-
-- 📫 How to reach me **maimallam57@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lOLNdIWyonqKIqdrdd7nBi4TWm1sL-9T/view?usp=sharing](https://drive.google.com/file/d/1lOLNdIWyonqKIqdrdd7nBi4TWm1sL-9T/view?usp=sharing)
-
-- ⚡ Fun fact **Actions speak louder than words!**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mai_allam1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mai_allam1257" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maiallam57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maiallam57" height="30" width="40" /></a>
-<a href="https://instagram.com/mai_allam1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mai_allam1257" height="30" width="40" /></a>
+<p align="center">Full Stack Developer with a strong focus on backend development and robotics, currently interning at Route. My technical expertise includes Python, C#, C++, SQL, ASP.NET Core, MVC, APIs, JavaScript, HTML, and CSS. I have extensive experience in computer vision, image processing, and deep learning. I have successfully mentored multiple MATE ROV Competition teams at Vortex Robotics, achieving high ranks in regional and global competitions. My skill set also includes designing and implementing PCBs, ROV systems, and UI/UX design. I am well-versed in Agile methodologies and have demonstrated strong teamwork and leadership abilities.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiallam57&show_icons=true&locale=en&layout=compact" alt="maiallam57" /></p>
+# 💻 Tech Stack
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![.MySql](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.net-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)<br/>
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VisualStudio](https://img.shields.io/badge/visualstudio-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23000000.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maiallam57&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=maiallam57&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maiallam57&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+#
+
