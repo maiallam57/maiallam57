@@ -1,7 +1,7 @@
 
 <h1 align="center">👩‍💻 Mai Allam <br><br>
    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+.NET+Developer&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Web+Developer;Angular+||+.NET&center=true&size=28">
   </a>
 </h1>
 
