@@ -1,5 +1,9 @@
 
-<h1 align="center">👩‍💻 Mai Allam <br>Software Engineer || Full Stack .NET Developer</h1>
+<h1 align="center">👩‍💻 Mai Allam <br><br>
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+.NET+Developer&center=true&size=28">
+  </a>
+</h1>
 
 <p align="center">Full Stack Developer with a strong focus on backend development and robotics, currently interning at Route. My technical expertise includes Python, C#, C++, SQL, ASP.NET Core, MVC, APIs, JavaScript, HTML, and CSS. I have extensive experience in computer vision, image processing, and deep learning. I have successfully mentored multiple MATE ROV Competition teams at Vortex Robotics, achieving high ranks in regional and global competitions. My skill set also includes designing and implementing PCBs, ROV systems, and UI/UX design. I am well-versed in Agile methodologies and have demonstrated strong teamwork and leadership abilities.
 </p>
