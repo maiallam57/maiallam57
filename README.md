@@ -42,7 +42,7 @@
 
 
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.youtube.com/watch?v=sK4g4xXOuyc" target="_blank">
     <img src="https://ytcards.demolab.com/?id=sK4g4xXOuyc&title=building+a+crappy+website+on+purpose&lang=en&timestamp=1720711528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4600" alt="building a crappy website on purpose" width="250">
   </a>
