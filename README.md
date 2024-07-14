@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Trello-%23000000.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </div>
 
-
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiallam57&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
