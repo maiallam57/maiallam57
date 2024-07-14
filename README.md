@@ -42,6 +42,8 @@
 
 ---
 
+<h1 align="center"> Latest Projects </h1>
+
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.youtube.com/watch?v=sK4g4xXOuyc" target="_blank">
