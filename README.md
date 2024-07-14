@@ -12,22 +12,6 @@
 
 <h1 align="center"> 💻 Tech Stack </h1>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![.MySql](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.net-%23000000.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VisualStudio](https://img.shields.io/badge/visualstudio-%23000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23000000.svg?style=for-the-badge&logo=trello&logoColor=white)
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -49,9 +33,6 @@
 
 
 
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiallam57&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=maiallam57&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
@@ -59,3 +40,16 @@
 </div>
 
 
+
+
+
+<div align="center">
+<!-- BEGIN YOUTUBE-CARDS -->
+[![building a crappy website on purpose](https://ytcards.demolab.com/?id=sK4g4xXOuyc&title=building+a+crappy+website+on+purpose&lang=en&timestamp=1720711528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4600 "building a crappy website on purpose")](https://www.youtube.com/watch?v=sK4g4xXOuyc)
+[![Help me make a crappy website.](https://ytcards.demolab.com/?id=kDCoeWVNEF0&title=Help+me+make+a+crappy+website.&lang=en&timestamp=1720632692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5582 "Help me make a crappy website.")](https://www.youtube.com/watch?v=kDCoeWVNEF0)
+[![I Coded My FIRST Artificial Intelligence Project AGAIN... 7 Years Later](https://ytcards.demolab.com/?id=Wg16BOslJGk&title=I+Coded+My+FIRST+Artificial+Intelligence+Project+AGAIN...+7+Years+Later&lang=en&timestamp=1720017013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=694 "I Coded My FIRST Artificial Intelligence Project AGAIN... 7 Years Later")](https://www.youtube.com/watch?v=Wg16BOslJGk)
+[![How to Make Automation Workflows with Make.com](https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Make+Automation+Workflows+with+Make.com&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Make Automation Workflows with Make.com")](https://www.youtube.com/watch?v=8deKXiV-eLE)
+[![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
+[![The ULTIMATE Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The ULTIMATE Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
+<!-- END YOUTUBE-CARDS -->
+</div>
