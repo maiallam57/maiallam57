@@ -47,15 +47,15 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/posts/maiallam57_aspnetcore-mvc-webdevelopment-activity-7217680984375234560-BCB5?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src=" " alt="SmartWay" width="250">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/smartway.PNG" alt="SmartWay" width="250">
   </a>
    
   <a href="https://www.linkedin.com/posts/maiallam57_fullstackdevelopment-codingjourney-responsivedesign-activity-7217128216631623681-tTH-?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="" alt="Bezel" width="250">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/bezel.PNG" alt="Bezel" width="250">
   </a>
   
   <a href="https://www.linkedin.com/posts/maiallam57_webdevelopment-responsivedesign-html-activity-7200148621240008704-RaC0?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="" alt="DevFolio" width="250">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/devfoli.PNG" alt="DevFolio" width="250">
   </a>
   
   <a href="https://www.linkedin.com/posts/maiallam57_webdevelopment-responsivedesign-html-activity-7199817224059072512-RDmy?utm_source=share&utm_medium=member_desktop" target="_blank">
