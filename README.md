@@ -59,7 +59,7 @@
   </a>
   
   <a href="https://www.linkedin.com/posts/maiallam57_webdevelopment-responsivedesign-html-activity-7199817224059072512-RDmy?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="" alt="Mealify" width="250">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/mealify.PNG" alt="Mealify" width="250">
   </a>
   
   <a href="https://www.linkedin.com/posts/maiallam57_fullstackdevelopment-ecommerce-aspnetcore-activity-7217151414970511362-4AaY?utm_source=share&utm_medium=member_desktop" target="_blank">
@@ -67,7 +67,7 @@
   </a>
   
   <a href="https://www.linkedin.com/posts/maiallam57_frontend-frontenddevelopment-frontenddeveloper-activity-7177208406154330112-HTnn?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="" alt="Fokir" width="250">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/fokir.png" alt="Fokir" width="250">
   </a>
 </div>
 
