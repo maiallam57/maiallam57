@@ -46,23 +46,28 @@
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.youtube.com/watch?v=sK4g4xXOuyc" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=sK4g4xXOuyc&title=building+a+crappy+website+on+purpose&lang=en&timestamp=1720711528&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4600" alt="building a crappy website on purpose" width="250">
+  <a href="https://www.linkedin.com/posts/maiallam57_aspnetcore-mvc-webdevelopment-activity-7217680984375234560-BCB5?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src=" " alt="SmartWay" width="250">
   </a>
-  <a href="https://www.youtube.com/watch?v=kDCoeWVNEF0" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=kDCoeWVNEF0&title=Help+me+make+a+crappy+website.&lang=en&timestamp=1720632692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5582" alt="Help me make a crappy website." width="250">
+   
+  <a href="https://www.linkedin.com/posts/maiallam57_fullstackdevelopment-codingjourney-responsivedesign-activity-7217128216631623681-tTH-?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="" alt="Bezel" width="250">
   </a>
-  <a href="https://www.youtube.com/watch?v=Wg16BOslJGk" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=Wg16BOslJGk&title=I+Coded+My+FIRST+Artificial+Intelligence+Project+AGAIN...+7+Years+Later&lang=en&timestamp=1720017013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=694" alt="I Coded My FIRST Artificial Intelligence Project AGAIN... 7 Years Later" width="250">
+  
+  <a href="https://www.linkedin.com/posts/maiallam57_webdevelopment-responsivedesign-html-activity-7200148621240008704-RaC0?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="" alt="DevFolio" width="250">
   </a>
-  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Make+Automation+Workflows+with+Make.com&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876" alt="How to Make Automation Workflows with Make.com" width="250">
+  
+  <a href="https://www.linkedin.com/posts/maiallam57_webdevelopment-responsivedesign-html-activity-7199817224059072512-RDmy?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="" alt="Mealify" width="250">
   </a>
-  <a href="https://www.youtube.com/watch?v=f_ZxgQQ74Lc" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508" alt="I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind" width="250">
+  
+  <a href="https://www.linkedin.com/posts/maiallam57_fullstackdevelopment-ecommerce-aspnetcore-activity-7217151414970511362-4AaY?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4D22AQHa8IwXHoweLw/feedshare-shrink_2048_1536/0/1720702984281?e=1723680000&v=beta&t=vc8u_fuXDhHyIAnPnYi4tISIln6dFQ-_Wnj0r81VYMw" alt="Smarket" width="250">
   </a>
-  <a href="https://www.youtube.com/watch?v=9904LHBwSL8" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096" alt="The ULTIMATE Pioneers of Computer Science" width="250">
+  
+  <a href="https://www.linkedin.com/posts/maiallam57_frontend-frontenddevelopment-frontenddeveloper-activity-7177208406154330112-HTnn?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="" alt="Fokir" width="250">
   </a>
 </div>
 
