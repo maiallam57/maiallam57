@@ -47,6 +47,13 @@
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+   <a href="https://www.linkedin.com/posts/maiallam57_excited-to-unveil-my-latest-project-activity-7226638386810261504-HLf7?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/coverYummy.PNG" alt="Yummy" width="250">
+  </a>
+
+   <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/cover.PNG" alt="startframework" width="250">
+  </a> 
   <a href="https://www.linkedin.com/posts/maiallam57_aspnetcore-mvc-webdevelopment-activity-7217680984375234560-BCB5?utm_source=share&utm_medium=member_desktop" target="_blank">
     <img src="https://raw.githubusercontent.com/maiallam57/maiallam57/main/smartway.PNG" alt="SmartWay" width="250">
   </a>
