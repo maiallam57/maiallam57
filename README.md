@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<p align="center">Full Stack Developer with a strong focus on backend development and robotics, currently interning at Route. My technical expertise includes Python, C#, C++, SQL, ASP.NET Core, MVC, APIs, JavaScript, HTML, and CSS. I have extensive experience in computer vision, image processing, and deep learning. I have successfully mentored multiple MATE ROV Competition teams at Vortex Robotics, achieving high ranks in regional and global competitions. My skill set also includes designing and implementing PCBs, ROV systems, and UI/UX design. I am well-versed in Agile methodologies and have demonstrated strong teamwork and leadership abilities.
+<p align="center">I am a Full Stack Developer with a strong focus on backend development and robotics, currently interning at Route. I've successfully mentored multiple MATE ROV Competition teams at Vortex Robotics, achieving high ranks in regional and global competitions. My technical expertise spans Python, C#, C++, SQL, ASP.NET Core, MVC, APIs, JavaScript, HTML, and CSS. I also have extensive experience in computer vision, image processing, and deep learning. Additionally, my skill set includes designing and implementing PCBs, ROV systems, and UI/UX design. I am well-versed in Agile methodologies and have demonstrated strong teamwork and leadership abilities.
 </p>
 
 ---
